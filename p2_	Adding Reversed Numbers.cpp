@@ -40,7 +40,7 @@ int reverse(int x)
 int main() {
 	// your code goes here
 	ios_base::sync_with_stdio(false); 
-    cin.tie(NULL);
+        cin.tie(NULL);
     
 	int N,a,b,sum;
 	cin>>N;
